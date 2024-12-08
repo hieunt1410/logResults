@@ -2,3 +2,11 @@ theme: jekyll-theme-minimal
 title: AI Project Logs
 description: A page containing all logs from our Group 07 project
 url: "https://github.com/anhduc291203/AI"
+
+
+# Welcome to AI Project Logs
+
+This is the home page for our Group 07 AI project. Here, you'll find all logs and updates about our progress.
+
+- [View Logs](logs)
+- [About Us](about)
